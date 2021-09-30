@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AscendingAndDescending/AscendingAndDescending.iml" filepath="$PROJECT_DIR$/AscendingAndDescending/AscendingAndDescending.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FitnessTracker/FitnessTracker.iml" filepath="$PROJECT_DIR$/FitnessTracker/FitnessTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FormLetterWriter/FormLetterWriter.iml" filepath="$PROJECT_DIR$/FormLetterWriter/FormLetterWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Friend/Friend.iml" filepath="$PROJECT_DIR$/Friend/Friend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01PracticeHandsOn/L01PracticeHandsOn.iml" filepath="$PROJECT_DIR$/L01PracticeHandsOn/L01PracticeHandsOn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumbersDemo/NumbersDemo.iml" filepath="$PROJECT_DIR$/NumbersDemo/NumbersDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PastPresentFuture/PastPresentFuture.iml" filepath="$PROJECT_DIR$/PastPresentFuture/PastPresentFuture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Percentages/Percentages.iml" filepath="$PROJECT_DIR$/Percentages/Percentages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 4/Week 4.iml" filepath="$PROJECT_DIR$/Week 4/Week 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WozU-Public.iml" filepath="$PROJECT_DIR$/.idea/WozU-Public.iml" />
+    </modules>
+  </component>
+</project>
